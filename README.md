@@ -7,7 +7,7 @@ Determine which marketing campaigns and channels generated the highest return on
 
 ##  Dashboard Preview
 ![Dashboard](dashboard.png)
-> *Replace dashboard.png with your actual screenshot filename*
+
 
 ---
 
