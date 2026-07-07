@@ -87,6 +87,6 @@ Paid Search generated the least revenue of all channels. The budget allocated to
 | File | Description |
 |------|-------------|
 | `messy_marketing_campaign_dataset.xlsx` | Raw dataset |
-| `Marketing_Campaign_Dashboard.pbix` | Power BI dashboard file |
+| `Marketing_Campaign_Dashboard.png` | Power BI dashboard png |
 | `README.md` | Project documentation |
 
